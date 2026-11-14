@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(201, 202, 191);
+}
+header{
+    position: absolute;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    top: 0%;
+    text-align: center;
+}
+navc{
+    position: fixed;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    top: 10%;
+    text-align: center;
+}
+main{
+    position: fixed;
+    left: 0%;
+    height: 70%;
+    width: 100%;
+    top: 20%;
+    text-align: justify;
+    padding-left: 5%;
+    overflow: auto;
+}
+footer{
+    position: absolute;
+    left: 0%;
+    height: 10%;
+    width: 100%;
+    top: 90%;
+    text-align: center;
+}
+.verde{
+    color: green;
+    font-size:150%;
+}
+ h3 class="verde">Externo
+
+.{
+    color: red;
+    font-size: 150%;
+}
+.lara{
+    color: orange;
+    font-size:150%;
+}
+.verm{
+    color: red;
+    font-size: 150%;
+}
+ .dv{
+    margin: 300px;
+    }
+    a:link{
+        color: rgb(0, 153, 255);}
+    a:visited{color: orange;}
+    a:hover{color: greenyellow;font-size: xx-large;}
+    a{text-decoration: none;}
+
